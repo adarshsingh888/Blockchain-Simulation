@@ -101,7 +101,7 @@ src/
 ### Clone the repository
 
 ```bash
-git clone <github-repo-link>
+git clone https://github.com/adarshsingh888/Blockchain-Simulation.git
 cd project
 ```
 
