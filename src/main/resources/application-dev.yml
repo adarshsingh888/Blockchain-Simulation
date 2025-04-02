@@ -1,0 +1,8 @@
+server:
+  port: ${PORT:8090}
+spring:
+  application:
+    name: blockchain
+  data:
+    mongodb:
+      uri: ${SPRING_DATA_MONGODB_URI:mongodb://127.0.0.1:27017/blockchain}
